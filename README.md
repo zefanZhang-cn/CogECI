@@ -118,13 +118,3 @@ Sincerely thanks to [***iLIF***](https://github.com/LchengC/iLIF) for their cont
 
 - Never commit API keys / access keys.
 - `.env` is ignored by git; use `.env.example` as a template.
-
-## Citation
-
-If you find this work helpful, please cite the paper:
-
-```bibtex
-@article{
-
-}
-```
