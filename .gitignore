@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+
+# Local logs / outputs
+logout/
+outputs/
+runs/
+
+# Python virtualenvs
+.venv/
+venv/
+env/
+
+# Large artifacts / datasets (keep README instructions instead)
+*.whl
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Secrets
+.env
+.env.*
+!.env.example
